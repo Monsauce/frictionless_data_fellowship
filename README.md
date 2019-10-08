@@ -7,8 +7,9 @@ I am thrilled to be a part of the inaugural Frictionless Data Fellowship co-hort
 Watch this page to see how tools to help scientists at Environment and Climate Change Canada work in the open are developed. 
 
 ## Table of Contents
-* [Roadmap](#what-are-we-doing)
+* [Roadmap](#Roadmap)
 
-# Roadmap
+## Roadmap
+A Roadmap, in the context of the fellowship, is an outline of the work and deliverables for the fellowship. Click [here][link_roadmap] to read about the projects milestones. 
 
-
+[link_roadmap]: https://www.ontario.ca/page/eating-ontario-fish-2017-18
