@@ -12,4 +12,4 @@ Watch this page to see how tools to help scientists at Environment and Climate C
 ## Roadmap
 A Roadmap, in the context of the fellowship, is an outline of the work and deliverables for the fellowship. Click [here][link_roadmap] to read about the projects milestones. 
 
-[link_roadmap]: https://www.ontario.ca/page/eating-ontario-fish-2017-18
+[link_roadmap]: https://github.com/Monsauce/frictionless_data_fellowship/blob/master/Roadmap.md
