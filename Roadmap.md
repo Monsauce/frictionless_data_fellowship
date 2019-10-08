@@ -11,4 +11,4 @@ My goal for the fellowship is to create a data tool that allows researchers to p
 
 
 
-[link_syllabus]http://fellows.frictionlessdata.io/syllabus/
+[link_syllabus]:http://fellows.frictionlessdata.io/syllabus/
