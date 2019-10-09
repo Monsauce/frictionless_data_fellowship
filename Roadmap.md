@@ -1,5 +1,5 @@
 ## Roadmap
-My goal for the Fellowship is to create a data tool that allows researchers to pull data from the Open Government Portal and subsquently analyze and visualize the data. The training recieved during the Fellowshop will give me the tools and expertise to create this reproducible workflow. You can have a look at the detailed syllabus for the Fellowship [here][link_syllabus] and see the specific deliverables below. 
+My goal for the Fellowship is to create a data tool that allows researchers to pull data from the Open Government Portal and the Environment and Climate Change Canada Data Portal, and subsquently analyze and visualize the data. The training I receive during the Fellowship will give me the tools and expertise to create and teach this reproducible workflow. You can have a look at the detailed syllabus for the Fellowship [here][link_syllabus] and see the specific deliverables below. 
 
 ### October 2019
 - [x] Make roadmap
