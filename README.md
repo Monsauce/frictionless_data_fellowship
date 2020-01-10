@@ -14,7 +14,7 @@ Watch this page to see how tools to help scientists at Environment and Climate C
 A Roadmap, in the context of the Fellowship, is an outline of the work and deliverables for the fellowship. Click [here][link_roadmap] to read about the projects milestones. 
 
 ## Friday Questions
-To get to know me a bit more and what I'm learning through the fellowship. Check out the [history] [Link_fridayquestions] of the Friday Questions posed to the fellows! 
+To get to know me a bit more and what I'm learning through the fellowship. Check out the [history][link_fridayquestions] of the Friday Questions posed to the fellows! 
 
 [link_roadmap]: https://github.com/Monsauce/frictionless_data_fellowship/blob/master/Roadmap.md
 [link_fridayquestions]:https://github.com/Monsauce/frictionless_data_fellowship/blob/master/Friday_Questions.md
