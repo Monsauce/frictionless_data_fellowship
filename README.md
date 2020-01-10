@@ -8,7 +8,7 @@ Watch this page to see how tools to help scientists at Environment and Climate C
 
 ## Table of Contents
 * [Roadmap](#Roadmap)
-* [Friday Questions](#Friday Questions)
+* [Friday Questions](#FridayQuestions)
 
 ## Roadmap
 A Roadmap, in the context of the Fellowship, is an outline of the work and deliverables for the fellowship. Click [here][link_roadmap] to read about the projects milestones. 
