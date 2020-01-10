@@ -40,3 +40,26 @@ October 31, 2019:
 2) The lack of metadata! It's hard to re-use data when you dont know what the columns and rows are!
 3) It's helps alieviate the metadata problem by putting the data and metadata together in one place :) 
 
+November 14, 2019: 
+1) Would you rather be able to talk to animals, or speak every (human) language on Earth?
+2) What is one “best practice” for data management in the lab?
+3) Which aspect of “FAIR” data is your favorite, and why?
+
+1) Ooh definitely all the human languages. This is particularly on my mind because advancement in the government is predicated on command of both English Ana French.
+2) Meta data!! Especially in an environment where there is turnover it’s is important to be able to understand the data even when the author is not available.
+3) Reproducible is my favourite! Probably because I’ve done a couple of meta analyses and I wish all data sets were reproducible :)
+
+November 21, 2019: 
+1) What makes up a data package?
+2) What kind of metadata would you include for the data you work with?
+
+December 6, 2019: 
+1) What is one book that has influenced you greatly?
+2) What license did you use/will you use in your datapackage, and why? (This does not need to be a complete list)
+3) What metadata did you capture/will you capture in your datapackage? (This does not need to be a complete list)
+
+December 19, 2019: 
+1) What is your favorite hobby? 
+2) What is one thing you learned in the audience mapping exercise?
+3) What is one strategy you have for connecting with your audience?
+
