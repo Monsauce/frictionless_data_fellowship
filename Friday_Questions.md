@@ -1,4 +1,5 @@
-** Friday questions ** 
+**Friday questions** 
+
 September 19, 2019: 
 1) Please introduce yourself in 1 sentence
 2) Where are you/what’s your time zone?
