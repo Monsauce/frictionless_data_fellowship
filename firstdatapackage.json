@@ -1,0 +1,200 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "algae_data",
+      "path": "https://raw.githubusercontent.com/Monsauce/Origin-omnivory-and-stability/master/Algae.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Day",
+            "type": "integer",
+            "format": "default",
+            "title": "Experimental day ",
+            "description": "Experiment ran for 63 days "
+          },
+          {
+            "name": "Trophic",
+            "type": "string",
+            "format": "default",
+            "title": "Trophic structure of mesocosm",
+            "description": "What type of treatment the mesocosm received based on trophic structure present  "
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "format": "default",
+            "description": "Describes the species of crayfish in the mesocosm, unless no crayfish was present then control is indicated. ",
+            "title": "Species of crayfish"
+          },
+          {
+            "name": "Mesocosm",
+            "type": "integer",
+            "format": "default",
+            "title": "Mesocosm number",
+            "description": "Label for mesocosm number "
+          },
+          {
+            "name": "Replicate",
+            "type": "integer",
+            "format": "default",
+            "title": "Replicate number of each treatment",
+            "description": "  "
+          },
+          {
+            "name": "Density",
+            "type": "integer",
+            "format": "default",
+            "title": "Algae density "
+          },
+          {
+            "name": "Origin",
+            "type": "string",
+            "format": "default",
+            "title": "Origin of crayfish",
+            "description": "Describes if crayfish species is native or non-native, unless there is no crayfish then NA is indicated. "
+          }
+        ]
+      }
+    },
+    {
+      "name": "snail_data",
+      "path": "https://raw.githubusercontent.com/Monsauce/Origin-omnivory-and-stability/master/Snail.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Day",
+            "type": "integer",
+            "format": "default",
+            "title": "Experimental day",
+            "description": "Experiment ran for 63 days "
+          },
+          {
+            "name": "Trophic",
+            "type": "string",
+            "format": "default",
+            "title": "Trophic structure of mesocosm",
+            "description": "What type of treatment the mesocosm received based on trophic structure present  "
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "format": "default",
+            "title": "Species of crayfish",
+            "description": "Describes the species of crayfish in the mesocosm, unless no crayfish was present then control is indicated. "
+          },
+          {
+            "name": "Origin",
+            "type": "string",
+            "format": "default",
+            "title": "Origin of crayfish",
+            "description": "Describes if crayfish species is native or non-native, unless there is no crayfish then NA is indicated. "
+          },
+          {
+            "name": "Mesocosm",
+            "type": "integer",
+            "format": "default",
+            "title": "Mesocosm number",
+            "description": "Label for mesocosm number "
+          },
+          {
+            "name": "Replicate",
+            "type": "integer",
+            "format": "default",
+            "title": "Replicate number of each treatment"
+          },
+          {
+            "name": "Density",
+            "type": "integer",
+            "format": "default",
+            "title": "Number of snails remaining"
+          },
+          {
+            "name": "Alive ",
+            "type": "integer",
+            "format": "default",
+            "title": "Number of snails alive"
+          },
+          {
+            "name": "Consumed",
+            "type": "integer",
+            "format": "default",
+            "title": "Number of snails consumed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tile_sampling_data",
+      "path": "https://raw.githubusercontent.com/Monsauce/Origin-omnivory-and-stability/master/Tile.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Species ",
+            "type": "string",
+            "format": "default",
+            "title": "Species of crayfish",
+            "description": "Describes the species of crayfish in the mesocosm, unless no crayfish was present then control is indicated. "
+          },
+          {
+            "name": "Trophic",
+            "type": "string",
+            "format": "default",
+            "title": "Trophic structure of mesocosm",
+            "description": "What type of treatment the mesocosm received based on trophic structure present  "
+          },
+          {
+            "name": "Replicate",
+            "type": "integer",
+            "format": "default",
+            "title": "Replicate number of each treatment"
+          },
+          {
+            "name": "Tile ",
+            "type": "integer",
+            "format": "default",
+            "title": "Tile number in mesocosm sampled"
+          },
+          {
+            "name": "Quad",
+            "type": "integer",
+            "format": "default",
+            "title": "Quadrant of tile sampled"
+          },
+          {
+            "name": "Day ",
+            "type": "integer",
+            "format": "default",
+            "title": "Experimental day",
+            "description": "Experiment ran for 63 days "
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "omnivory",
+    "crayfish",
+    "mesocosms"
+  ],
+  "name": "origin_omnivory_and_stability_data_package",
+  "title": " Origin omnivory and stability data package",
+  "description": "Data from the \"Consequences of consumer origin and omnivory on stability in experimental food web modules\" paper in Freshwater Biology",
+  "homepage": "Consequences of consumer origin and omnivory on stability in experimental food web modules",
+  "contributors": [
+    {
+      "title": "M Granados",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
