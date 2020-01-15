@@ -8,7 +8,8 @@ Watch this page to see how tools to help scientists at Environment and Climate C
 
 ## Table of Contents
 * [Roadmap](#Roadmap)
-* [Friday Questions](#Friday_Questions)
+* [Friday Questions](#Friday-Questions)
+* [First data package write_up](#My-first-data-package)
 
 ## Roadmap
 A Roadmap, in the context of the Fellowship, is an outline of the work and deliverables for the fellowship. Click [here][link_roadmap] to read about the projects milestones. 
@@ -16,5 +17,9 @@ A Roadmap, in the context of the Fellowship, is an outline of the work and deliv
 ## Friday Questions
 To get to know me a bit more and what I'm learning through the fellowship. Check out the [history][link_fridayquestions] of the Friday Questions posed to the fellows! 
 
+## My first data package
+Read about what I did to make my first data package [here][first_data_package_writeup]! 
+
 [link_roadmap]: https://github.com/Monsauce/frictionless_data_fellowship/blob/master/Roadmap.md
 [link_fridayquestions]:https://github.com/Monsauce/frictionless_data_fellowship/blob/master/Friday_Questions.md
+[first_data_package_writeup]:https://github.com/Monsauce/frictionless_data_fellowship/blob/master/Creating_my_first_data_package.md
