@@ -53,10 +53,17 @@ November 21, 2019:
 1) What makes up a data package?
 2) What kind of metadata would you include for the data you work with?
 
+1) A data package has resources (the data itself) and the metadata 
+2) I would have a decription of the data and more information about the variables in the descriptions
+
 December 6, 2019: 
 1) What is one book that has influenced you greatly?
 2) What license did you use/will you use in your datapackage, and why? (This does not need to be a complete list)
 3) What metadata did you capture/will you capture in your datapackage? (This does not need to be a complete list)
+
+1) Not a book, but the situating open science talk by Denisse Albornoz was influential in making me re-think open science 
+2) I used a CC-BY license to faciliate re-use but also atribution to keep track of how much it's used
+3) I added better descriptions for my variables 
 
 December 19, 2019: 
 1) What is your favorite hobby? 
