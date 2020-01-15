@@ -14,7 +14,9 @@ To add the snail and tile sampling datasets I will click on "Add a resource" for
 ### Add dataset's metadata
 Next I will add the data's metadata. I added a title, author and description to the metadata and I choose tabular data package since its just CSV files. I also added a CC-BY licence so that anyone can use the data as well. 
 
-Then I validated the data and downloaded the package which is availble [here][link_firstdatapackage]. 
+Then I validated the data (see note below) and downloaded the package which is availble [here][link_firstdatapackage]. 
+
+*Note: make sure not to use any uppercase letters or dashes in your package name or the resource names or package will not be validated*
 
 
 
@@ -24,3 +26,4 @@ Then I validated the data and downloaded the package which is availble [here][li
 [link_paper]:https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.13378
 [link_data]:https://github.com/Monsauce/Origin-omnivory-and-stability/blob/master/Algae.csv
 [link_DPC]:http://create.frictionlessdata.io/
+[link_firstdatapackage]:https://github.com/Monsauce/frictionless_data_fellowship/blob/master/firstdatapackage.json
