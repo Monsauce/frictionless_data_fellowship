@@ -78,7 +78,17 @@ What is your favorite hobby?
 What is one thing you learned in the audience mapping exercise?
 What is one strategy you have for connecting with your audience?
 
+My favourite hobby is building legos! In the audience mapping exercise I learned about tailoring your message to increasingly broader groups, I think I had spent to much time thinking just about the small, niche audience I was focusing on. For the focused audience I will connect by giving examples of how this will make workflows easier for the researcher themselves. For the more general audience I will focus on the ease of re-use. 
 
+January 16, 2020:
+
+What is one goal you have for 2020?
+As you write your blog, is there anything you wish you had documented better while you were creating your datapackage, so that you could remember the process better now?
+Who is your intended audience for this blog?
+
+Get more fit! My partner kicks my butt on hikes and I want to keep up with her! 
+I think it would have been good to include screen caps of the process to make it easier for me to remember. 
+Other scientists that I want to convert to using these awesome Data Packages!
 
 
 
