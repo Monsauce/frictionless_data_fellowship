@@ -44,7 +44,7 @@
           },
           {
             "name": "Density",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Algae density "
           },
@@ -107,7 +107,7 @@
           },
           {
             "name": "Density",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Number of snails remaining"
           },
